@@ -2,258 +2,147 @@
 
 # 📦 Mozn Jamous — Portfolio Index
 
-### A complete index of my software work — owned projects, collaborations, and showcases.
+### Software Engineer · Damascus, Syria
+*Building scalable ERP systems, AI-powered mobile applications, and Arabic-first digital health.*
 
-[![Profile](https://img.shields.io/badge/GitHub-Mozn--jamous-181717?logo=github)](https://github.com/Mozn-jamous)
+[![GitHub](https://img.shields.io/badge/GitHub-Mozn--jamous-181717?logo=github)](https://github.com/Mozn-jamous)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mozn%20Jamous-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mozn-jamous)
 [![Email](https://img.shields.io/badge/Email-asaierafi%40clinlab.ai-D14836?logo=gmail&logoColor=white)](mailto:asaierafi@clinlab.ai)
+[![Status](https://img.shields.io/badge/Available%20For-Freelance%20%26%20Partnerships-success.svg)]()
 
 </div>
 
 ---
 
-## 👤 About
+## 👋 About Me
 
-I'm a final-year IT Engineering student at **Al-Sham Private University (ASPU)** in Damascus, Syria. I build production-grade ERP systems and AI-powered mobile applications, with a particular focus on Arabic-first user experiences and the MENA digital health space.
+I am a final-year Informatics Engineering student at **Al-Sham Private University (ASPU)** in Damascus, Syria, graduating in 2026. I specialize in building production-grade systems across three intersecting domains:
 
-This repository is the **index** of all my work. Each entry below links to either:
-- 🌍 A **public source repo** (open code)
-- 🟢 A **showcase repo** (documentation only — source is private)
-- 🔒 A **private repo** (not publicly accessible)
-- 🤝 A **collaboration repo** owned by a partner
+- **ERP systems** — particularly the Odoo ecosystem
+- **Mobile applications** — Flutter, with a focus on Arabic-first UX
+- **AI-powered products** — practical integration of LLMs, fine-tuning, and classical ML
 
----
-
-## 🌟 Owned Projects
-
-<table>
-<tr>
-<th width="30%">Project</th>
-<th width="50%">Description</th>
-<th width="20%">Stack</th>
-</tr>
-
-<tr>
-<td>
-
-### 🌸 BloomBelly
-🟢 [Showcase](https://github.com/Mozn-jamous/bloombelly-showcase)
-🔒 Source private
-
-</td>
-<td>
-
-AI-assisted, Arabic-first maternal & child health companion. Tracks pregnancy through child growth with a Gemini-powered medical Q&A layer.
-
-</td>
-<td>
-
-`Flutter` `Supabase` `Gemini AI` `40K+ lines`
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 👶 CareConnect Platform
-🟢 [Showcase](https://github.com/Mozn-jamous/careconnect-platform-showcase)
-🔒 Source private
-
-</td>
-<td>
-
-Two-sided childcare marketplace. Parent app (solo) + Babysitter provider app (co-developed). Booking, payments, ratings, in-app chat.
-
-</td>
-<td>
-
-`Flutter` `Firebase` `Two apps`
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 💸 Smart Expense Manager
-🌍 [Public source](https://github.com/Mozn-jamous/smart-expense-manager)
-
-</td>
-<td>
-
-Odoo 19 module for employee expense management. Mobile receipt upload, token-based email approval, automated monthly PDF reports.
-
-</td>
-<td>
-
-`Python` `Odoo 19` `LGPL-3`
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🚀 Rise Up
-🟢 [Showcase](https://github.com/Mozn-jamous/riseup-showcase)
-🔒 Source private
-
-</td>
-<td>
-
-90-day Life OS PWA + Android app. 18 sellable project blueprints, programming fundamentals, interview prep, life-tracking tools.
-
-</td>
-<td>
-
-`Vanilla JS` `PWA` `Capacitor`
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🏢 Takhrjy ERP
-🔒 Private
-
-</td>
-<td>
-
-Production ERP for a Damascus business: orders → manufacturing → local delivery → international shipping. 7 user roles, 6-state pipeline, permission middleware, Telegram daily reports.
-
-</td>
-<td>
-
-`Vue 3` `TypeScript` `PostgreSQL` `~2M lines`
-
-</td>
-</tr>
-
-</table>
+My work has been recognized academically (graduation thesis), commercially (production deployments serving real businesses), and through collaborations with multiple development teams. Below is a complete index.
 
 ---
 
-## 🤝 Collaborations
+## 🎯 Featured Work
 
-I contribute to several production codebases as part of partner teams:
+### 🌸 BloomBelly — AI-Assisted Maternal Health Platform
+*Graduation thesis · Co-authored with Shahd Bureghsh · Supervisors: Dr. Afaf Al-Shalabi & Eng. Rahaf Abdul Qader*
 
-<table>
-<tr>
-<th width="30%">Project</th>
-<th width="50%">Description</th>
-<th width="20%">Partner</th>
-</tr>
+A Flutter mobile platform that combines Google Gemini for medical image analysis, a LoRA-fine-tuned transformer for an Arabic medical chatbot, and a Random Forest classifier for pregnancy nutrition guidance. Backed by Python Flask + Supabase. Serves four user roles (Manager, First-time Mother, Mother-with-Child, Father) with a doctor-administered wallet system.
 
-<tr>
-<td>
+🔗 [bloombelly-showcase](https://github.com/Mozn-jamous/bloombelly-showcase) | 📄 [Impact](https://github.com/Mozn-jamous/bloombelly-showcase/blob/main/IMPACT.md) | 💼 [Business Model](https://github.com/Mozn-jamous/bloombelly-showcase/blob/main/BUSINESS-MODEL.md) | 🏗 [Architecture](https://github.com/Mozn-jamous/bloombelly-showcase/blob/main/docs/architecture.md)
 
-### 💄 Mademoiselle V2 (MDMZL)
-🔒 Private
+`Flutter` `Python Flask` `Gemini` `LoRA` `Random Forest` `Supabase` `MVVM` `Arabic-first`
 
-</td>
-<td>
+---
 
-Active development. AI Beauty Closet — multi-role beauty services platform with a custom design system, Supabase RPCs, AI try-on. Sophisticated PL/pgSQL backend (2.6M+ lines).
+### 💸 Smart Expense Manager — Odoo 19 Module
+*Solo build · Open source (LGPL-3.0)*
 
-</td>
-<td>
+A complete Odoo 19 module for end-to-end employee expense management: mobile receipt upload, auto-routing to direct manager, token-secured one-click email approvals, automated journal entry posting, and monthly PDF reports. Bilingual (Arabic + English).
 
-[@santateammedia](https://github.com/santateammedia)
+🔗 [smart-expense-manager](https://github.com/Mozn-jamous/smart-expense-manager)
 
-</td>
-</tr>
+`Python` `Odoo 19` `OWL` `QWeb` `LGPL-3.0`
 
-<tr>
-<td>
+---
 
-### 💄 Mademoiselle V1
-🔒 Private
+### 👶 CareConnect Platform — Two-Sided Childcare Marketplace
+*Solo + co-developed with [@shaha123s](https://github.com/shaha123s)*
 
-</td>
-<td>
+A childcare booking platform with separate apps for parents and babysitters, sharing a unified backend, escrow-style payments, in-app chat, and certification verification. Designed and built with Figma-first methodology.
 
-V1 of the multi-role beauty services marketplace. 14.6M+ lines of Dart. Comprehensive design and roles audits completed.
+🔗 [careconnect-platform-showcase](https://github.com/Mozn-jamous/careconnect-platform-showcase)
 
-</td>
-<td>
+`Flutter` `Firebase` `Two-app architecture` `Marketplace`
 
-[@santateammedia](https://github.com/santateammedia)
+---
 
-</td>
-</tr>
+### 🚀 Rise Up — 90-Day Life OS PWA
+*Solo build · Vanilla JavaScript + Capacitor*
 
-<tr>
-<td>
+A career operating system PWA that bundles 18 sellable project blueprints, programming fundamentals, interview prep, and productivity tools. Installable as a PWA and packaged as an Android APK via Capacitor.
 
-### 🩺 eda
-🔒 Private
+🔗 [riseup-showcase](https://github.com/Mozn-jamous/riseup-showcase)
 
-</td>
-<td>
+`Vanilla JS` `PWA` `Service Workers` `Capacitor`
 
-Multi-tenant clinics platform with separate user and admin Flutter apps + NestJS backend. Comprehensive documentation (BACKEND_PLAN, DEEP_ANALYSIS, TEST_CASES).
+---
 
-</td>
-<td>
+## 🤝 Notable Collaborations
 
-[@xvtu2003](https://github.com/xvtu2003)
+I have contributed to several production codebases as part of partner teams:
 
-</td>
-</tr>
+### 💄 Mademoiselle — Beauty Services Platform (V2 active)
+*Production codebase · With [@santateammedia](https://github.com/santateammedia)*
 
-<tr>
-<td>
+Multi-role beauty services marketplace. V1 (14.6M Dart) being superseded by V2 (10M Dart + 2.6M PL/pgSQL). Sophisticated Supabase RPC-driven backend, custom design system (`mademoiselle_ds`), AI try-on integration. I contribute across the backend RPCs and shared design system components.
+
+### 🏥 eda — Multi-Tenant Clinics Platform
+*Production codebase · With [@xvtu2003](https://github.com/xvtu2003)*
+
+Healthcare platform with three Flutter apps (user, admin × 2) and a NestJS + TypeScript backend. Extensive Python deployment automation. I contribute to backend service development and frontend integration.
 
 ### 👩‍🍼 Babysitter Provider App
-🔒 Private
+*Production codebase · With [@shaha123s](https://github.com/shaha123s)*
 
-</td>
-<td>
-
-Sister app to CareConnect — the babysitter/provider side of the two-sided marketplace. Profile, certifications, bookings, ratings.
-
-</td>
-<td>
-
-[@shaha123s](https://github.com/shaha123s)
-
-</td>
-</tr>
-
-</table>
+The provider-side counterpart to my CareConnect parent app, forming a complete two-sided childcare marketplace.
 
 ---
 
-## 🧰 Tech Snapshot
+## 🧰 Technical Skills
 
-| Area | Technologies |
-|---|---|
-| Backend & ERP | Python, Odoo 15–19, Laravel, NestJS, Node.js, Express |
-| Mobile | Flutter (Dart), Capacitor, PWA |
-| Web Frontend | Vue 3, TypeScript, Vanilla JS, Tailwind |
-| State Management | Pinia, Riverpod, Provider |
-| Database | PostgreSQL (incl. PL/pgSQL), Supabase, Firebase, drift, Hive |
-| AI | Google Gemini, prompt engineering, AI safety pipelines |
-| DevOps | Docker, Linux, Git, GitHub Actions |
-| i18n / RTL | Arabic-first design across all major projects |
+### Languages & Frameworks
+- **Backend:** Python (Flask, Odoo), Node.js (NestJS, Express), Laravel
+- **Mobile:** Dart (Flutter), Capacitor
+- **Frontend:** Vue 3, TypeScript, JavaScript, HTML/CSS, Tailwind
+- **AI/ML:** PyTorch, Hugging Face Transformers, LoRA, scikit-learn, Pandas, NumPy
+
+### Infrastructure & Tools
+- **Databases:** PostgreSQL (incl. PL/pgSQL stored procedures), Supabase, Firebase
+- **Auth:** JWT, OAuth, Supabase Auth, bcrypt
+- **DevOps:** Docker, Linux, Git, GitHub Actions
+- **Design:** Figma, Excalidraw
+
+### Specializations
+- **Arabic-first UX** with proper RTL design across all my work
+- **Multi-role permission systems** (e.g., the 7-role permission middleware in production ERP)
+- **AI orchestration** combining multiple models behind a single API
+- **System design** for complex stakeholder requirements
+
+---
+
+## 📚 Academic Background
+
+**Bachelor of Informatics Engineering** *(in progress, graduating 2026)*
+Al-Sham Private University (ASPU)
+Damascus, Syria
+
+**Graduation Thesis:** *BloomBelly: An AI-Assisted Arabic-First Maternal and Child Health Platform.* Co-authored with Shahd Bureghsh. Supervised by Dr. Afaf Al-Shalabi and Eng. Rahaf Abdul Qader.
+
+---
+
+## 🎯 Open to
+
+- **Full-stack engineering roles** (Flutter, Vue, Python, Odoo)
+- **AI-product engineering** (LLM integration, fine-tuning, ML pipelines)
+- **ERP consulting** with a focus on Odoo customization
+- **Digital-health collaborations**, grants, and research partnerships
+- **Accelerator and incubator** programs for BloomBelly
+- **MENA-focused freelance work**
+
+I can share NDA-protected source-code access on request, and can provide letters of reference from collaborators and supervisors.
 
 ---
 
 ## 📞 Get in touch
 
-- 📧 **Email:** asaierafi@clinlab.ai
-- 💼 **LinkedIn:** [Mozn Jamous](https://www.linkedin.com/in/mozn-jamous)
-- 🐙 **GitHub:** [@Mozn-jamous](https://github.com/Mozn-jamous)
-
-Open to:
-- Full-stack and Flutter freelance / contract work
-- ERP consulting and custom Odoo modules
-- Digital-health partnerships and grant collaborations
-- Accelerator and incubator opportunities
-
-For private projects, I can share read-only source access under NDA. For partnerships, I can provide letters of reference from collaborators.
+- 📧 **Email:** [asaierafi@clinlab.ai](mailto:asaierafi@clinlab.ai)
+- 💼 **LinkedIn:** [linkedin.com/in/mozn-jamous](https://www.linkedin.com/in/mozn-jamous)
+- 🐙 **GitHub:** [github.com/Mozn-jamous](https://github.com/Mozn-jamous)
 
 ---
 
