@@ -50,14 +50,14 @@ A complete Odoo 19 module for end-to-end employee expense management: mobile rec
 
 ---
 
-### 👶 CareConnect Platform — Two-Sided Childcare Marketplace
-*Solo + co-developed with [@shaha123s](https://github.com/shaha123s)*
+### 👶 CareConnect Platform — Three-Tier Childcare Marketplace
+*Three Flutter apps · IEEE 830 SRS · Babysitter App co-developed with [@shaha123s](https://github.com/shaha123s)*
 
-A childcare booking platform with separate apps for parents and babysitters, sharing a unified backend, escrow-style payments, in-app chat, and certification verification. Designed and built with Figma-first methodology.
+A three-app ecosystem (Mother App + Babysitter App + Admin Panel) sharing a unified Supabase backend, with Google Maps discovery, WhatsApp communication, and admin-moderated reviews. Database-layer RBAC via Supabase RLS. Fully documented to IEEE 830 SRS standards.
 
-🔗 [careconnect-platform-showcase](https://github.com/Mozn-jamous/careconnect-platform-showcase)
+🔗 [careconnect-platform-showcase](https://github.com/Mozn-jamous/careconnect-platform-showcase) | 💼 [Business Model](https://github.com/Mozn-jamous/careconnect-platform-showcase/blob/main/BUSINESS-MODEL.md) | 🌍 [Impact](https://github.com/Mozn-jamous/careconnect-platform-showcase/blob/main/IMPACT.md)
 
-`Flutter` `Firebase` `Two-app architecture` `Marketplace`
+`Flutter` `Provider` `Supabase` `PostgreSQL` `OAuth` `Google Maps` `WhatsApp` `RBAC`
 
 ---
 
