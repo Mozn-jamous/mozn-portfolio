@@ -7,7 +7,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mozn--jamous-181717?logo=github)](https://github.com/Mozn-jamous)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mozn%20Jamous-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mozn-jamous)
-[![Email](https://img.shields.io/badge/Email-asaierafi%40clinlab.ai-D14836?logo=gmail&logoColor=white)](mailto:asaierafi@clinlab.ai)
+[![Email](https://img.shields.io/badge/Email-moznjamous9%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:moznjamous9@gmail.com)
 [![Status](https://img.shields.io/badge/Available%20For-Freelance%20%26%20Partnerships-success.svg)]()
 
 </div>
@@ -140,7 +140,7 @@ I can share NDA-protected source-code access on request, and can provide letters
 
 ## 📞 Get in touch
 
-- 📧 **Email:** [asaierafi@clinlab.ai](mailto:asaierafi@clinlab.ai)
+- 📧 **Email:** [moznjamous9@gmail.com](mailto:moznjamous9@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/mozn-jamous](https://www.linkedin.com/in/mozn-jamous)
 - 🐙 **GitHub:** [github.com/Mozn-jamous](https://github.com/Mozn-jamous)
 
