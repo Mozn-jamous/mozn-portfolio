@@ -61,17 +61,6 @@ A three-app ecosystem (Mother App + Babysitter App + Admin Panel) sharing a unif
 
 ---
 
-### 🚀 Rise Up — 90-Day Life OS PWA
-*Solo build · Vanilla JavaScript + Capacitor*
-
-A career operating system PWA that bundles 18 sellable project blueprints, programming fundamentals, interview prep, and productivity tools. Installable as a PWA and packaged as an Android APK via Capacitor.
-
-🔗 [riseup-showcase](https://github.com/Mozn-jamous/riseup-showcase)
-
-`Vanilla JS` `PWA` `Service Workers` `Capacitor`
-
----
-
 ## 🤝 Notable Collaborations
 
 I have contributed to several production codebases as part of partner teams:
